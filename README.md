@@ -55,3 +55,5 @@ upstream retailer outages degrade gracefully.
 ### Elsewhere
 
 [Portfolio](https://joshuavanstraaten.com) · [LinkedIn](https://www.linkedin.com/in/joshua-van-straaten) · joshuavanstraaten100@gmail.com
+
+<!-- profile -->
